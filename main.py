@@ -1,8 +1,8 @@
 import alpaca_trade_api as tradeapi
 
 # Keys needed to access account. Go to alpaca.markets and see Paper Account for your info.
-API_KEY = "PKTLRQQ7MTID0G0OA3GT"
-API_SECRET = "1XPW4Bw0jNTYvEPdfdis1R1qaTQwsUfOevcVZ0FQ"
+API_KEY = "ADD YOUR API KEY HERE"
+API_SECRET = "ADD YOUR API SECRET KEY HERE"
 API_BASE_URL = 'https://paper-api.alpaca.markets'
 
 
